@@ -1,8 +1,18 @@
-# SAS
-A repository of all the data, tutorials and any other associated information needed to complete the tutorials created for SAS OnDemand.
+# SAS On Demand
+A repository containing links to my SAS On Demand tutorials, alongside the data and scripts required for them.
 
-### Tutorial 1 - Sign up and the SAS environment
-A brief tutorial providing some understanding of how to sign up to SAS OnDemand and what the SAS environment looks like.
+### Introduction
+Learn how to navigate github for the appropriate data and how to sign up to SAS.
 
-### Tutorial 2 - NBA Combine data
-Analysing an NBA Combine dataset using ANOVA and Mixed Models in SAS
+### Tutorial 1 - NBA Combine data
+Analyse an NBA Combine dataset using ANOVA and Mixed Models using SAS On Demand.
+
+##### 1a - Exploring the data
+
+##### 1b - Running One Way ANOVAs
+
+##### 1c - Running Two Way ANOVAs
+
+##### 1d - Running Linear Mixed Models
+
+
