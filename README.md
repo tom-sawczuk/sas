@@ -13,6 +13,6 @@ Analyse an NBA Combine dataset using ANOVA and Mixed Models using SAS On Demand.
 
 ### 1c - Running Two Way ANOVAs
 
-#### 1d - Running Linear Mixed Models
+### 1d - Running Linear Mixed Models
 
 
