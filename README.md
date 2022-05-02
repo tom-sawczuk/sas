@@ -7,6 +7,8 @@ Learn how to navigate github and how to sign up to SAS On Demand.
 ## Tutorial 1 - NBA Combine data
 Analyse an NBA Combine dataset using ANOVA and Mixed Models using SAS On Demand. All the information needed for this tutorial is in the nba_combine folder (https://github.com/tom-sawczuk/sas_ondemand/tree/main/nba_combine).
 
+https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/tom-sawczuk/sas_ondemand/tree/main/nba_combine
+
 ### 1a - Exploring the data
 *Load and explore the NBA Combine dataset.*
 
