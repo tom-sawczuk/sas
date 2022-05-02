@@ -19,5 +19,5 @@ Analyse an NBA Combine dataset using ANOVA and Mixed Models using SAS On Demand.
 ### 1d - Running Linear Mixed Models
 *Linear Mixed Models using the Proc Mixed procedure.*
 
-### 1e - Harnessing the power of mixed models
-*Consider a real-world application of the data, where understanding the random effects of the mixed model could provide more insight into our results.*
+### 1e - Understanding random effects
+*Gain a deeper understanding of random effects by comparing the mixed model output with the two-way ANOVA output*
