@@ -3,7 +3,7 @@
 * years. In order to see how mixed models work, let's pretend that we don't. We still
 * want to account for positional differences whilst we look at the season by season
 * change in jump height, but we also want to account for the fact that we don't know
-* about every single Combine player (i.e. those players that we know about could 
+* about every single Combine player (i.e. those players that we know about but who could 
 * change the positional differences). Our question could now be:
 
 * 		After accounting for positional differences in this sample, has NBA Combine 
