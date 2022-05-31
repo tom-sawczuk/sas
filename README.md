@@ -23,7 +23,7 @@ All the information needed for this tutorial is in the nba_combine folder. It ca
 
 ## Tutorial 2 - Athlete Monitoring data
 Analyse an athlete monitoring dataset using Linear Mixed Models. 
-All the information needed for this tutorial is in the athlete_monitoring folder. It can be downloaded quickly using this link:
+All the information needed for this tutorial is in the athlete_monitoring folder. It can be downloaded quickly using this link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/tom-sawczuk/sas_ondemand/tree/main/athlete_monitoring
 
 ### 2a - Categorical Linear Mixed Model
 *Perform a first analysis of the data by grouping the data according to the within-participant z-score*
