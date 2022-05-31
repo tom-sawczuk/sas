@@ -28,20 +28,23 @@ All the information needed for this tutorial is in the athlete_monitoring folder
 ### 2a - Categorical Linear Mixed Model
 *Perform a first analysis of the data by grouping the data according to the within-participant z-score*
 
-### 2b - Continuous Linear Mixed Model
+### 2b - Interpreting the Categorical Linear Mixed Model
+*Interpret the model that we just produced*
+
+### 2c - Continuous Linear Mixed Model
 *Improve the Linear Mixed Model by using a continuous covariate rather than discretising the independent variable into groups*
 
-### 2c - Comparing random intercepts and random slopes
+### 2d - Comparing random intercepts and random slopes
 *Produce a random slopes mixed model, which can be compared to the random intercepts model previously created*
 
-### 2d - Extending the model
+### 2e - Extending the model
 *Add a second continuous independent variable to the model*
 
-### 2e - Interpreting the model
-*Interpret the output of the models produced so far*
+### 2f - Interpreting the model
+*Interpret the output of the sleep/training load model*
 
-### 2f - Understanding the question you're asking
-*Consider the question you wish to answer and see if the model you're producing actually answers it*
+### 2g - Understanding the question you're asking
+*Consider the question you wish to answer and create a revised model to ensure we are actually answering the question we want to answer*
 
 ### 2g - Interpreting the revised model
-*Interpret the revised linear mixed model*
+*Interpret the revised Linear Mixed Model*
