@@ -15,7 +15,7 @@ All the information needed for this tutorial is in the nba_combine folder. It ca
 *Incorporate two independent variables using both the Two Way ANOVA and Linear Mixed Model approaches*
 
 ### 1c - Comparing fixed and random effects
-*Compare the outputs of the Two Way ANOVA and Linear Mixed Model to understand the difference between fixed and random effects*
+*Investigate and understand the difference between fixed and random effects*
 
 ### 1d - Interpreting the model
 *Interpret the output of the Linear Mixed Model*
