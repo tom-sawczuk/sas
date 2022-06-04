@@ -28,23 +28,21 @@ All the information needed for this tutorial is in the athlete_monitoring folder
 ### 2a - Categorical Linear Mixed Model
 *Perform a first analysis of the data by grouping the data according to the within-participant z-score*
 
-### 2b - Interpreting the Categorical Linear Mixed Model
-*Interpret the model that we just produced*
-
-### 2c - Continuous Linear Mixed Model
+### 2b - Continuous Linear Mixed Model
 *Improve the Linear Mixed Model by using a continuous covariate rather than discretising the independent variable into groups*
 
-### 2d - Comparing random intercepts and random slopes
-*Produce a random slopes mixed model, which can be compared to the random intercepts model previously created*
+### 2c - Random slopes linear mixed model
+*Produce a random slopes mixed model, which allows variation in the influence of sleep on DWB to be considered*
 
-### 2e - Extending the model
-*Add a second continuous independent variable to the model*
+### 2d - Random intercepts and random slopes recap
+*Compare the three models produced so far to recap the differences between random intercepts and random slopes mixed models*
 
-### 2f - Interpreting the model
-*Interpret the output of the sleep/training load model*
+### 2e - Interpreting the models
+*Interpret the outputs of the three models we have produced*
 
-### 2g - Understanding the question you're asking
-*Consider the question you wish to answer and create a revised model to ensure we are actually answering the question we want to answer*
+### 2f - Extending the model
+*Extend the mixed model to include training load as a covariate, alongside sleep*
 
-### 2g - Interpreting the revised model
-*Interpret the revised Linear Mixed Model*
+### 2g - Reframing the question
+*Understand how we can manipulate the data to ask about the CHANGE in DWB, rather than the raw DWB score*
+
